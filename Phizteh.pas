@@ -1,3 +1,4 @@
+program Phiztekh;
 var
  s : string[6];
  i,n,x : longint;
