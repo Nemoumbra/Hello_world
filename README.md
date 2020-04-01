@@ -1,3 +1,2 @@
 # Hello_world
-Data_available
-Yet_unrecievable
+Совместная работа над проектом.
