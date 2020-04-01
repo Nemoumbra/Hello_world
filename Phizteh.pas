@@ -1,8 +1,8 @@
-program Phiztekh;
-var
+Program Phiztekh;
+Var
  s : string[6];
- i,n,x : longint;
-begin
+ i, n, x : longint;
+Begin
  readln(x);
  n:=0;
  for i:=100000 to 999999 do
@@ -17,4 +17,4 @@ begin
    end;
   end;
  readln;
-end.
+End.
